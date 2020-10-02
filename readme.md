@@ -2,7 +2,7 @@
 
 LICENSE: [MIT](./license.md)
 
-![|](.assets/git-logo.png)
+![|](./assets/git-logo.png)
 
 ### Includes:
 1. Let's talk about cookies
