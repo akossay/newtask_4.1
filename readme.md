@@ -10,5 +10,5 @@ LICENSE: [MIT](./license.md)
 
 ---
 
-GIT logo by Jason Long https://git-scm.com/downnlowds/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+GIT logo by Jason Long https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
